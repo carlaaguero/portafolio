@@ -5,3 +5,5 @@ Se han utilizado las siguientes tecnologías:
 * HTML 5
 * CSS 3
 * JS: jQuery
+
+Portafolio en construcción.
